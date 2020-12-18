@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">C02603122018</string>
+    <string name="edit_message">Enter your name</string>
+    <string name="edit_age">Enter your age</string>
+    <string name="edit_gender">Enter your gender</string>
+    <string name="Edit_id">Enter your ID NO</string>
+    <string name="Edit_course">Enter your course</string>
+    <string name="edit_county">Enter your county</string>
+    <string name="edit_university">Enter your university</string>
+    <string name="button_label">SEND DETAILS</string>
+    <string name="name">NAME:</string>
+    <string name="age">AGE:</string>
+    <string name="gender">GENDER:</string>
+    <string name="Idnumber">ID NO:</string>
+    <string name="course">COURSE:</string>
+    <string name="county">COUNTY:</string>
+    <string name="university">UNIVERSITY:</string>
+    <string name="buttonlabel2">VIEW MESSAGE</string>
+    <string name="displaymessage">Thank you for giving your details</string>
+</resources>

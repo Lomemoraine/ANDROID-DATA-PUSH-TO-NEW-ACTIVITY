@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView11" type="id" />
+    <item name="text22" type="id" />
+    <item name="textView" type="id" />
+    <item name="text1" type="id" />
+    <item name="textView10" type="id" />
+    <item name="textView13" type="id" />
+    <item name="textView14" type="id" />
+    <item name="textView15" type="id" />
+    <item name="text33" type="id" />
+    <item name="text44" type="id" />
+    <item name="text55" type="id" />
+    <item name="text66" type="id" />
+    <item name="text77" type="id" />
+    <item name="button2" type="id" />
+</resources>
